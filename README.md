@@ -1,2 +1,2 @@
 # beginner-web
-start to explore new web page
+start to explore creating web page
